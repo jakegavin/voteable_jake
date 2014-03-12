@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.authors = ['Jake Gavin']
   s.email = 'jakegavin@gmail.com'
   s.files = ['lib/voteable_jake.rb']
-  s.homepage = ''
+  s.homepage = 'https://github.com/jakegavin/voteable_jake'
 end
